@@ -16,7 +16,7 @@
         }
     ],
     "require": {
-        "doctrine/doctrine-bundle": "^1.2",
+        "doctrine/doctrine-bundle": "2.1.x-dev",
         "doctrine/common": "^2.2",
         "symfony/framework-bundle": "^4.0",
         "friendsofsymfony/user-bundle": "^2.0"
